@@ -1,0 +1,1 @@
+Bem-vindo ao meu portfólio! Este projeto foi desenvolvido para apresentar os projetos e habilidades que adquiri ao longo da minha trajetória como desenvolvedor. Sinta-se à vontade para navegar e conhecer mais sobre meu trabalho.
